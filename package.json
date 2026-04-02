@@ -1,0 +1,32 @@
+{
+  "name": "a2a-bridge",
+  "version": "1.0.0",
+  "description": "Production-ready A2A (Agent-to-Agent) protocol implementation for multi-agent AI systems",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "a2a",
+    "multi-agent",
+    "agent-communication",
+    "mcp",
+    "agent-protocol"
+  ],
+  "author": "Retsumdk",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
