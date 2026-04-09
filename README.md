@@ -1,5 +1,8 @@
 # Agent A2A Bridge
 
+[![Build](https://github.com/Retsumdk/agent-a2a-bridge/workflows/CI/badge.svg)](https://github.com/Retsumdk/agent-a2a-bridge/actions)
+
+
 A production-ready implementation of Google's Agent-to-Agent (A2A) protocol for building multi-agent AI systems. This library provides a complete A2A client and server implementation that enables agents to discover, communicate, and collaborate with each other across different platforms and frameworks.
 
 ## 🌟 Features
