@@ -246,3 +246,9 @@ MIT License - see LICENSE file for details
 - [A2A Protocol Specification](https://github.com/google/A2A)
 - [Google ADK Documentation](https://google.github.io/adk-docs/)
 - [MCP vs A2A Comparison](https://www.digitalocean.com/community/tutorials/a2a-vs-mcp-ai-agent-protocols)
+
+## 🔗 Related Repos
+- [agent-memory-store](https://github.com/Retsumdk/agent-memory-store) — Persistent memory for AI agents
+- [agent-task-queue](https://github.com/Retsumdk/agent-task-queue) — Task queue with retry logic
+- [prompt-version-control](https://github.com/Retsumdk/prompt-version-control) — Prompt versioning
+- [agents](https://github.com/Retsumdk/agents) — SCIEL Multi-Agent System
